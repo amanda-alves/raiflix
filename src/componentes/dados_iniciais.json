@@ -99,7 +99,28 @@
         }
       ]
     },
-   
+    {
+      "titulo": "Filmes - Séries",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "Estrelas Além do Tempo",
+          "url": "https://www.youtube.com/watch?v=wx3PVtrU-Os"
+        },
+        {
+          "titulo": "Coisa Mais Linda",
+          "url": "https://www.youtube.com/watch?v=gi5pXrQhZxQ"
+        },
+        {
+          "titulo": "As Sufragistas",
+          "url": "https://www.youtube.com/watch?v=R8le4sZHRdE"
+        },
+        {
+          "titulo": "Mulher-Maravilha",
+          "url": "https://www.youtube.com/watch?v=tqfOtQ5auBA"
+        }
+      ]
+    },
     {
       "titulo": "Sobre a Vida",
       "cor": "red",
