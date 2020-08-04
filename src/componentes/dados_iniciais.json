@@ -14,6 +14,10 @@
           "url": "https://www.youtube.com/watch?v=YBnNvETQBJ8"
         },
         {
+          "titulo": "Mulheres Negras Pautando o Futuro",
+          "url": "https://www.youtube.com/watch?v=1Tfx0t8ywrg"
+        },
+        {
           "titulo": "PretaLab - Monique Evelle",
           "url": "https://www.youtube.com/watch?v=cjD9R23WheQ&t=142s"
         },
@@ -30,17 +34,13 @@
           "url": "https://www.youtube.com/watch?v=OUkCWNCpniQ"
         },
         {
-          "titulo": "Mulheres Negras Pautando o Futuro",
-          "url": "https://www.youtube.com/watch?v=1Tfx0t8ywrg"
-        },
-        {
           "titulo": "PretaLab - Maria Rita Casagrande",
           "url": "https://www.youtube.com/watch?v=XS9Es9qRqec"
         },
         {
           "titulo": "PretaLab - Glória Celeste de Brito",
           "url": "https://www.youtube.com/watch?v=0Flsn0ipH-U"
-        }        
+        }
       ]
     },
     {
@@ -66,7 +66,7 @@
         {
           "titulo": "Como o Github pode ser útil | Charlotte Lorelei",
           "url": "https://www.youtube.com/watch?v=nLsWot2zSLc"
-        }, 
+        },
         {
           "titulo": "Quantas LINGUAGENS de programação EU SEI? | Kizzy Terra",
           "url": "https://www.youtube.com/watch?v=Ab33948mbW8&t=2s"
@@ -78,7 +78,7 @@
       "cor": "#9cd33b",
       "link_extra": {
         "text": "Musicas Potentes",
-        "url": "https://www.youtube.com/watch?v=N7IF02EN4nE"
+        "url": "https://www.youtube.com/watch?v=bFRBQjBuQmo"
       },
       "videos": [
         {
@@ -138,16 +138,16 @@
           "url": "https://www.youtube.com/watch?v=uTrLpclk3j4"
         },
         {
-          "titulo": "A FALÁCIA DA EVOLUÇÃO LINEAR | Nataly Neri",
-          "url": "https://www.youtube.com/watch?v=vkUBHxihfkM"
-        },
-        {
           "titulo": "ORIENTAÇÃO SEXUAL E ESTEREÓTIPOS RACISTAS | Nataly Neri",
           "url": "https://www.youtube.com/watch?v=iBXv9aV3l6E"
         },
         {
           "titulo": "TÁ, MAS COMO FAZ ISSO DE SE AMAR? | Jout Jout",
           "url": "https://www.youtube.com/watch?v=OljdATv51HA"
+        },
+        {
+          "titulo": "A FALÁCIA DA EVOLUÇÃO LINEAR | Nataly Neri",
+          "url": "https://www.youtube.com/watch?v=vkUBHxihfkM"
         }
       ]
     },
