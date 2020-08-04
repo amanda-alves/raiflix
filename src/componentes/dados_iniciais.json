@@ -1,183 +1,162 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
+      "titulo": "PretaLab",
+      "link": "https://www.youtube.com/watch?v=ug_ow0vLc8M",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "PretaLab é uma iniciativa realizada pelo Olabi para inspirar meninas e mulheres negras e indígenas no universo das tecnologias e inovação",
+        "url": "https://www.pretalab.com/"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "PretaLab - Silvana Bahia",
+          "url": "https://www.youtube.com/watch?v=YBnNvETQBJ8"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "PretaLab - Monique Evelle",
+          "url": "https://www.youtube.com/watch?v=cjD9R23WheQ&t=142s"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "PretaLab - Ana Carolina da Hora",
+          "url": "https://www.youtube.com/watch?v=RP8nMM9ZTxo"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "PretaLab - Vitória Lourenço",
+          "url": "https://www.youtube.com/watch?v=XNY_iuwKQk4"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "PretaLab - Gabi Oliveira",
+          "url": "https://www.youtube.com/watch?v=OUkCWNCpniQ"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Mulheres Negras Pautando o Futuro",
+          "url": "https://www.youtube.com/watch?v=1Tfx0t8ywrg"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "PretaLab - Maria Rita Casagrande",
+          "url": "https://www.youtube.com/watch?v=XS9Es9qRqec"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "PretaLab - Glória Celeste de Brito",
+          "url": "https://www.youtube.com/watch?v=0Flsn0ipH-U"
         }        
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "Mulheres",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "Mulheres na Tecnologia ",
+        "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw&feature=emb_title"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "O que faz uma desenvolvedora front-end? | Vanessa Me Tonini",
+          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw&feature=emb_title"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "Mulher + Tecnologia: Combinação Perfeita | Vanessa Weber",
+          "url": "https://www.youtube.com/watch?v=yJTsA4hC_fw"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "Mulheres negras usam tecnologia para enfrentar desigualdades",
+          "url": "https://www.youtube.com/watch?v=YbXhaGpCKz4"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "Como o Github pode ser útil | Charlotte Lorelei",
+          "url": "https://www.youtube.com/watch?v=nLsWot2zSLc"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "Quantas LINGUAGENS de programação EU SEI? | Kizzy Terra",
+          "url": "https://www.youtube.com/watch?v=Ab33948mbW8&t=2s"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Musicas",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "Musicas Potentes",
+        "url": "https://www.youtube.com/watch?v=N7IF02EN4nE"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "Poetisas no Topo 2",
+          "url": "https://www.youtube.com/watch?v=N7IF02EN4nE"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Samba Que Elas Querem - 'Nós Somos Mulheres'",
+          "url": "https://www.youtube.com/watch?v=B5YJqc-rK-A"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Pitty - Contramão (Feat. Tássia Reis e Emmily Barreto)",
+          "url": "https://www.youtube.com/watch?v=H_PX3aKNQJg"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Bia Ferreira e Doralice - Miss Beleza Universal",
+          "url": "https://www.youtube.com/watch?v=e96vtTAozq4"
         }
       ]
     },
+   
     {
-      "titulo": "Filmes",
-      "cor": "orange",
-      "videos": [
-        {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
-        },
-        {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
-        },
-        {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
-        },
-        {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
-        }
-      ]
-    },
-    {
-      "titulo": "Games",
+      "titulo": "Sobre a Vida",
       "cor": "red",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
+        "text": "Vamos falar de vida, de viver",
+        "url": "https://www.youtube.com/user/joutjoutprazer"
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "Era uma vez um voto | Jout Jout Prazer",
+          "url": "https://www.youtube.com/watch?v=GhMrvP59o7A&list=PLj0yCrqhrPopw-f6IJWu4hLK6VN5cC_iI&index=2&t=4s"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "NÃO É PRA SAIR | Jout Jout e Nataly Neri",
+          "url": "https://www.youtube.com/watch?v=uTrLpclk3j4"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "A FALÁCIA DA EVOLUÇÃO LINEAR | Nataly Neri",
+          "url": "https://www.youtube.com/watch?v=vkUBHxihfkM"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "ORIENTAÇÃO SEXUAL E ESTEREÓTIPOS RACISTAS | Nataly Neri",
+          "url": "https://www.youtube.com/watch?v=iBXv9aV3l6E"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "TÁ, MAS COMO FAZ ISSO DE SE AMAR? | Jout Jout",
+          "url": "https://www.youtube.com/watch?v=OljdATv51HA"
         }
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
+      "titulo": "Falando sobre dinheiro",
       "cor": "#6b5be2",
       "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+        "text": "Como é a sua relação com o dinheiro?",
+        "url": "https://www.youtube.com/channel/UCmhzmQBdXP9TeRtpQ-iWSPg"
       },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "TUDO SOBRE A NOTA DE 200 REAIS | NATH FINANÇAS",
+          "url": "https://www.youtube.com/watch?v=DHgsNxrxyMU"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "DESABAFO: SAÚDE MENTAL NA VIDA FINANCEIRA | Finanças com a Nath",
+          "url": "https://www.youtube.com/watch?v=go9RWEdhL2Y"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "GUIA BEM BÁSICO pra começar a investir | Me Poupe",
+          "url": "https://www.youtube.com/watch?v=aGGYFxLdFMw"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          "titulo": "6 PASSOS PRÁTICOS PRA JUNTAR 10 MIL REAIS! | Me Poupe",
+          "url": "https://www.youtube.com/watch?v=7DOhKIQGXPA"
         },
         {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "COMO COMEÇAR UM NEGÓCIO DO ZERO E SEM DINHEIRO? | Me Poupe",
+          "url": "https://www.youtube.com/watch?v=8tsmVSS9_30"
         }
       ]
     }
