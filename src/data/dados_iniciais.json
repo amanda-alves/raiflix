@@ -10,7 +10,7 @@
       },
       "videos": [
         {
-          "titulo": "PretaLab - Silvana Bahia",
+          "titulo": "Um convite a conhecer e compartilhar a atuação de mulheres nos mais variados espaços.",
           "url": "https://www.youtube.com/watch?v=YBnNvETQBJ8"
         },
         {
@@ -44,11 +44,11 @@
       ]
     },
     {
-      "titulo": "Mulheres",
+      "titulo": "Vanessa Me Tonini ",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Mulheres na Tecnologia ",
-        "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw&feature=emb_title"
+        "text": "Desenvolvedora",
+        "url": "https://twitter.com/vanessametonini?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
       },
       "videos": [
         {
@@ -56,128 +56,128 @@
           "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw&feature=emb_title"
         },
         {
-          "titulo": "Mulher + Tecnologia: Combinação Perfeita | Vanessa Weber",
-          "url": "https://www.youtube.com/watch?v=yJTsA4hC_fw"
+          "titulo": "Vale a pena participar de comunidades de tecnologia? ",
+          "url": "https://www.youtube.com/watch?v=jGI-fZZYH-Y&t=5s"
         },
         {
-          "titulo": "Mulheres negras usam tecnologia para enfrentar desigualdades",
-          "url": "https://www.youtube.com/watch?v=YbXhaGpCKz4"
+          "titulo": "Acessibilidade na Web",
+          "url": "https://www.youtube.com/watch?v=vrLx1yJjsXU"
         },
         {
           "titulo": "Como o Github pode ser útil | Charlotte Lorelei",
           "url": "https://www.youtube.com/watch?v=nLsWot2zSLc"
         },
         {
-          "titulo": "Quantas LINGUAGENS de programação EU SEI? | Kizzy Terra",
-          "url": "https://www.youtube.com/watch?v=Ab33948mbW8&t=2s"
+          "titulo": "Entrevista com Vanessa Tonini - MariaLab e empoderamento",
+          "url": "https://www.youtube.com/watch?v=1dbhY2GqhHM"
+        }
+      ]
+    },
+    {
+      "titulo": "kizzy Terra",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Cientista de dados",
+        "url": "https://twitter.com/kizzy_terra"
+      },
+      "videos": [
+        {
+          "titulo": "BOTS surpreendentes para usar no TELEGRAM",
+          "url": "https://www.youtube.com/watch?v=w30dQ0L2qCg"
+        },
+        {
+          "titulo": "Quantas LINGUAGENS de programação EU SEI?",
+          "url": "https://www.youtube.com/watch?v=Ab33948mbW8&t=4s"
+        },
+        {
+          "titulo": "Decidi TRABALHAR com DADOS por causa desse PROJETO ",
+          "url": "https://www.youtube.com/watch?v=6DCy5goAlsw"
+        },
+        {
+          "titulo": "FRACASSOS, FRUSTRAÇÕES E SÍNDROME DO IMPOSTOR",
+          "url": "https://www.youtube.com/watch?v=m4yiiWvJ9cE"
+        }
+      ]
+    },
+    {
+      "titulo": "Nátaly Neri",
+      "cor": "orange",
+      "link_extra": {
+        "text": "Cientista social em formação",
+        "url": "https://www.youtube.com/channel/UCjivwB8MrrGCMlIuoSdkrQg"
+      },
+      "videos": [
+        {
+          "titulo": "A FALÁCIA DA EVOLUÇÃO LINEAR",
+          "url": "https://www.youtube.com/watch?v=vkUBHxihfkM&t=9s"
+        },
+        {
+          "titulo": "MULHER? QUE MULHER?",
+          "url": "https://www.youtube.com/watch?v=_xMIYnIweRw"
+        },
+        {
+          "titulo": "A IMPORTÂNCIA DA ESTÉTICA E AUTOESTIMA NEGRA",
+          "url": "https://www.youtube.com/watch?v=srKdoOEbjeg"
+        },
+        {
+          "titulo": "5 MULHERES NEGRAS INTELECTUAIS BRASILEIRAS",
+          "url": "https://www.youtube.com/watch?v=WiTF73fIcl0"
+        }
+      ]
+    },
+    {
+      "titulo": "JoutJout",
+      "cor": "red",
+      "link_extra": {
+        "text": "Jornalista",
+        "url": "https://www.youtube.com/user/joutjoutprazer"
+      },
+      "videos": [
+        {
+          "titulo": "TÁ, MAS COMO FAZ ISSO DE SE AMAR?",
+          "url": "https://www.youtube.com/watch?v=OljdATv51HA&t=24s"
+        },
+        {
+          "titulo": "Era uma vez um voto | Jout Jout Prazer",
+          "url": "https://www.youtube.com/watch?v=GhMrvP59o7A&list=PLj0yCrqhrPopw-f6IJWu4hLK6VN5cC_iI&index=2&t=4s"
+        },
+        {
+          "titulo": "AS PESSOAS NÃO, EU.",
+          "url": "https://www.youtube.com/watch?v=F4EyGNPqiR4&t=487s"
+        },
+        {
+          "titulo": "PREMISSAS BÁSICAS PRIMEIRAS",
+          "url": "https://www.youtube.com/watch?v=0DbPfsrXNG8"
+        },
+        {
+          "titulo": "NÃO TIRA O BATOM VERMELHO",
+          "url": "https://www.youtube.com/watch?v=I-3ocjJTPHg&t=323s"
         }
       ]
     },
     {
       "titulo": "Musicas",
-      "cor": "#9cd33b",
-      "link_extra": {
-        "text": "Musicas Potentes",
-        "url": "https://www.youtube.com/watch?v=bFRBQjBuQmo"
-      },
+      "cor": "#6b5be2",
       "videos": [
         {
           "titulo": "Poetisas no Topo 2",
           "url": "https://www.youtube.com/watch?v=N7IF02EN4nE"
         },
         {
-          "titulo": "Samba Que Elas Querem - 'Nós Somos Mulheres'",
-          "url": "https://www.youtube.com/watch?v=B5YJqc-rK-A"
+          "titulo": "Samba Que Elas Querem - Nós Somos Mulheres",
+          "url": "https://www.youtube.com/watch?v=B5YJqc-rK-A&t=145s"
         },
         {
           "titulo": "Pitty - Contramão (Feat. Tássia Reis e Emmily Barreto)",
           "url": "https://www.youtube.com/watch?v=H_PX3aKNQJg"
         },
         {
-          "titulo": "Bia Ferreira e Doralice - Miss Beleza Universal",
+          "titulo": "Bia Ferreira & Doralice - Miss Beleza Universal",
           "url": "https://www.youtube.com/watch?v=e96vtTAozq4"
-        }
-      ]
-    },
-    {
-      "titulo": "Filmes - Séries",
-      "cor": "orange",
-      "videos": [
-        {
-          "titulo": "Estrelas Além do Tempo",
-          "url": "https://www.youtube.com/watch?v=wx3PVtrU-Os"
         },
         {
-          "titulo": "Coisa Mais Linda",
-          "url": "https://www.youtube.com/watch?v=gi5pXrQhZxQ"
-        },
-        {
-          "titulo": "As Sufragistas",
-          "url": "https://www.youtube.com/watch?v=R8le4sZHRdE"
-        },
-        {
-          "titulo": "Mulher-Maravilha",
-          "url": "https://www.youtube.com/watch?v=tqfOtQ5auBA"
-        }
-      ]
-    },
-    {
-      "titulo": "Sobre a Vida",
-      "cor": "red",
-      "link_extra": {
-        "text": "Vamos falar de vida, de viver",
-        "url": "https://www.youtube.com/user/joutjoutprazer"
-      },
-      "videos": [
-        {
-          "titulo": "Era uma vez um voto | Jout Jout Prazer",
-          "url": "https://www.youtube.com/watch?v=GhMrvP59o7A&list=PLj0yCrqhrPopw-f6IJWu4hLK6VN5cC_iI&index=2&t=4s"
-        },
-        {
-          "titulo": "NÃO É PRA SAIR | Jout Jout e Nataly Neri",
-          "url": "https://www.youtube.com/watch?v=uTrLpclk3j4"
-        },
-        {
-          "titulo": "ORIENTAÇÃO SEXUAL E ESTEREÓTIPOS RACISTAS | Nataly Neri",
-          "url": "https://www.youtube.com/watch?v=iBXv9aV3l6E"
-        },
-        {
-          "titulo": "TÁ, MAS COMO FAZ ISSO DE SE AMAR? | Jout Jout",
-          "url": "https://www.youtube.com/watch?v=OljdATv51HA"
-        },
-        {
-          "titulo": "A FALÁCIA DA EVOLUÇÃO LINEAR | Nataly Neri",
-          "url": "https://www.youtube.com/watch?v=vkUBHxihfkM"
-        }
-      ]
-    },
-    {
-      "titulo": "Falando sobre dinheiro",
-      "cor": "#6b5be2",
-      "link_extra": {
-        "text": "Como é a sua relação com o dinheiro?",
-        "url": "https://www.youtube.com/channel/UCmhzmQBdXP9TeRtpQ-iWSPg"
-      },
-      "videos": [
-        {
-          "titulo": "TUDO SOBRE A NOTA DE 200 REAIS | NATH FINANÇAS",
-          "url": "https://www.youtube.com/watch?v=DHgsNxrxyMU"
-        },
-        {
-          "titulo": "DESABAFO: SAÚDE MENTAL NA VIDA FINANCEIRA | Finanças com a Nath",
-          "url": "https://www.youtube.com/watch?v=go9RWEdhL2Y"
-        },
-        {
-          "titulo": "GUIA BEM BÁSICO pra começar a investir | Me Poupe",
-          "url": "https://www.youtube.com/watch?v=aGGYFxLdFMw"
-        },
-        {
-          "titulo": "6 PASSOS PRÁTICOS PRA JUNTAR 10 MIL REAIS! | Me Poupe",
-          "url": "https://www.youtube.com/watch?v=7DOhKIQGXPA"
-        },
-        {
-          "titulo": "COMO COMEÇAR UM NEGÓCIO DO ZERO E SEM DINHEIRO? | Me Poupe",
-          "url": "https://www.youtube.com/watch?v=8tsmVSS9_30"
+          "titulo": "Cássia Eller - Malandragem",
+          "url": "https://www.youtube.com/watch?v=bFRBQjBuQmo"
         }
       ]
     }
