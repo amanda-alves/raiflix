@@ -1,12 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import Home from './pages/Home/index';
 
 import { BrowserRouter, Switch, Route } from 'react-router-dom';
+import Home from './pages/Home';
 import CadastroVideo from './pages/cadastro/Video';
 import CadastroCategoria from './pages/cadastro/Categoria';
-
 
 
 const Pagina404 = () => (<div>Página 404</div>)
@@ -22,5 +21,3 @@ ReactDOM.render(
   </BrowserRouter>,
   document.getElementById('root')
 );
-
-
